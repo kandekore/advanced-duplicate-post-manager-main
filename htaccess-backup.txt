@@ -1,0 +1,3 @@
+# BEGIN Post Redirects
+Redirect 301 /old-slug /new-slug
+# END Post Redirects
