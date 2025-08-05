@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Advanced Duplicate Post Manager
  * Description: Manage duplicate posts, pages, media, categories, and CPTs. Supports .htaccess 301 redirects, CSV exports, and more.
- * Version: 3.0
+ * Version: 3.2.1
  * Author: Darren Kandekore
  * License: GPL2
  */
